@@ -7,3 +7,6 @@ This repository is part of the Web Programming Practicum 1 coursework, aimed at 
 
 ## Screenshot Git Log
 ![Git Log](gitlog.png)
+
+## Author
+Putri Mutiara Bintang
