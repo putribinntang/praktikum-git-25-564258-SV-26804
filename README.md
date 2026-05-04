@@ -45,6 +45,10 @@ Melakukan interactive rebase untuk menggabungkan beberapa commit menjadi satu co
 Digunakan setelah rebase untuk memperbarui commit history di repository remote.
 ![Git Log](gitpushupstream.png)
 
+### 8. git log 
+Digunakan untuk melihat commit history.
+![Git Log](gitlog-3.png)
+
 ## Sreenshoot Branch Protection
 ![Branch Protection](branchprotection.png)
 
