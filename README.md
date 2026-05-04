@@ -19,27 +19,31 @@ cd praktikum-git-25-564258-SV-26804
 
 ### 1. git clone
 Digunakan untuk menyalin repository dari GitHub ke komputer lokal.
+![Git Log](gitclone.png)
 
-### 2. git add .
+### 2. git add
 Menambahkan semua perubahan ke staging area sebelum dilakukan commit.
+![Git Log](gitadd.png)
 
 ### 3. git commit -m "pesan"
 Menyimpan perubahan dengan pesan commit sesuai Conventional Commits.
+![Git Log](gitadd.png)
 
-### 4. git push origin main
-Mengirim perubahan dari lokal ke branch main di GitHub.
+### 4. git push origin "nama branch"
+Mengirim perubahan dari lokal ke branch di GitHub.
+![Git Log](gitpush.png)
 
 ### 5. git checkout -b nama-branch
 Membuat dan berpindah ke branch baru.
+![Git Log](gitbranchcheckout.png)
 
-### 6. git pull origin main
-Mengambil dan menyinkronkan perubahan terbaru dari branch main.
-
-### 7. git rebase -i HEAD~3
+### 6. git rebase -i HEAD~3
 Melakukan interactive rebase untuk menggabungkan beberapa commit menjadi satu commit yang lebih rapi.
+![Git Log](gitrebase.png)
 
-### 8. git push --force
+### 7. git push --set-upstream
 Digunakan setelah rebase untuk memperbarui commit history di repository remote.
+![Git Log](gitpushupstream.png)
 
 ## Sreenshoot Branch Protection
 ![Branch Protection](branchprotection.png)
